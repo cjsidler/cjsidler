@@ -7,7 +7,7 @@
 -   <img src="osu-beaver.svg" alt="drawing" width="22"/> I have since graduated from Oregon State University with a Bachelor of Science degree in Computer Science
 -   <img src="csuf-titans.svg" alt="drawing" width="32"/>
     I also have a Bachelor of Arts in Business Administration from Cal State Fullerton from my previous career as an accountant
--   🔭 I’m currently working on fun projects using the GPT API and Next.js
+-   🔭 I’m currently working on fun projects using the GPT API, C#, .Net, and Next.js
 -   😄 Some of my favorite things include 💻☕🚵‍♂️🎾⚾🏈🎮🛹🎥📺
 
 ### 📬 How to reach me
